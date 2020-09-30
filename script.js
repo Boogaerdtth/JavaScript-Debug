@@ -18,10 +18,3 @@ for (let person of array) {
         console.log(person.age);
     }
 }
-
-
-
-
-// if  >= 50 {
-//     console.log('Deze persoon is ouder dan 50 jaar');
-// }
